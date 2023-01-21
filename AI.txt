@@ -1,0 +1,2 @@
+This is a smart AI chatbot that is built using python and machine learning.
+In future this chatbot project is to be used for the projects such as MEDASSIST , MEDICARE+ AND CARE+ .

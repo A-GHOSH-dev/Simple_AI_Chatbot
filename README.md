@@ -1,1 +1,1 @@
-# Simple_AI_Chatbot
+# SmartAI_ChatBot
